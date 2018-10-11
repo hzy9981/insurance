@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.qing.insurance.dao.OrderMapper" >
+  <resultMap id="BaseResultMap" type="com.qing.insurance.pojo.Order" >
+    <constructor >
+      <idArg column="ORDER_ID" jdbcType="INTEGER" javaType="java.lang.Integer" />
+      <arg column="ORDER_NO" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="FINISH_DATE" jdbcType="TIMESTAMP" javaType="java.util.Date" />
+      <arg column="SUM_PREMIUM" jdbcType="DECIMAL" javaType="java.math.BigDecimal" />
+      <arg column="BI_PREMIUM" jdbcType="DECIMAL" javaType="java.math.BigDecimal" />
+      <arg column="CI_PREMIUM" jdbcType="DECIMAL" javaType="java.math.BigDecimal" />
+      <arg column="ORDER_CITY" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="USER_NAME" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="CAR_OWNER" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="ENGINER_NO" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="FRAME_NO" jdbcType="VARCHAR" javaType="java.lang.String" />
+      <arg column="LICENCE_NO" jdbcType="VARCHAR" javaType="java.lang.String" />
+    </constructor>
+  </resultMap>
+  <sql id="Base_Column_List" >
+    ORDER_ID, ORDER_NO, FINISH_DATE, SUM_PREMIUM, BI_PREMIUM, CI_PREMIUM, ORDER_CITY, 
+    USER_NAME, CAR_OWNER, ENGINER_NO, FRAME_NO, LICENCE_NO
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from user_order
+    where ORDER_ID = #{orderId,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from user_order
+    where ORDER_ID = #{orderId,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.qing.insurance.pojo.Order" >
+    insert into user_order (ORDER_ID, ORDER_NO, FINISH_DATE, 
+      SUM_PREMIUM, BI_PREMIUM, CI_PREMIUM, 
+      ORDER_CITY, USER_NAME, CAR_OWNER, 
+      ENGINER_NO, FRAME_NO, LICENCE_NO
+      )
+    values (#{orderId,jdbcType=INTEGER}, #{orderNo,jdbcType=VARCHAR}, now(),
+      #{sumPremium,jdbcType=DECIMAL}, #{biPremium,jdbcType=DECIMAL}, #{ciPremium,jdbcType=DECIMAL}, 
+      #{orderCity,jdbcType=VARCHAR}, #{userName,jdbcType=VARCHAR}, #{carOwner,jdbcType=VARCHAR}, 
+      #{enginerNo,jdbcType=VARCHAR}, #{frameNo,jdbcType=VARCHAR}, #{licenceNo,jdbcType=VARCHAR}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="com.qing.insurance.pojo.Order" >
+    insert into user_order
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="orderId != null" >
+        ORDER_ID,
+      </if>
+      <if test="orderNo != null" >
+        ORDER_NO,
+      </if>
+      <if test="finishDate != null" >
+        FINISH_DATE,
+      </if>
+      <if test="sumPremium != null" >
+        SUM_PREMIUM,
+      </if>
+      <if test="biPremium != null" >
+        BI_PREMIUM,
+      </if>
+      <if test="ciPremium != null" >
+        CI_PREMIUM,
+      </if>
+      <if test="orderCity != null" >
+        ORDER_CITY,
+      </if>
+      <if test="userName != null" >
+        USER_NAME,
+      </if>
+      <if test="carOwner != null" >
+        CAR_OWNER,
+      </if>
+      <if test="enginerNo != null" >
+        ENGINER_NO,
+      </if>
+      <if test="frameNo != null" >
+        FRAME_NO,
+      </if>
+      <if test="licenceNo != null" >
+        LICENCE_NO,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="orderId != null" >
+        #{orderId,jdbcType=INTEGER},
+      </if>
+      <if test="orderNo != null" >
+        #{orderNo,jdbcType=VARCHAR},
+      </if>
+      <if test="finishDate != null" >
+        #{finishDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="sumPremium != null" >
+        #{sumPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="biPremium != null" >
+        #{biPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="ciPremium != null" >
+        #{ciPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="orderCity != null" >
+        #{orderCity,jdbcType=VARCHAR},
+      </if>
+      <if test="userName != null" >
+        #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="carOwner != null" >
+        #{carOwner,jdbcType=VARCHAR},
+      </if>
+      <if test="enginerNo != null" >
+        #{enginerNo,jdbcType=VARCHAR},
+      </if>
+      <if test="frameNo != null" >
+        #{frameNo,jdbcType=VARCHAR},
+      </if>
+      <if test="licenceNo != null" >
+        #{licenceNo,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.qing.insurance.pojo.Order" >
+    update user_order
+    <set >
+      <if test="orderNo != null" >
+        ORDER_NO = #{orderNo,jdbcType=VARCHAR},
+      </if>
+      <if test="finishDate != null" >
+        FINISH_DATE = #{finishDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="sumPremium != null" >
+        SUM_PREMIUM = #{sumPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="biPremium != null" >
+        BI_PREMIUM = #{biPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="ciPremium != null" >
+        CI_PREMIUM = #{ciPremium,jdbcType=DECIMAL},
+      </if>
+      <if test="orderCity != null" >
+        ORDER_CITY = #{orderCity,jdbcType=VARCHAR},
+      </if>
+      <if test="userName != null" >
+        USER_NAME = #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="carOwner != null" >
+        CAR_OWNER = #{carOwner,jdbcType=VARCHAR},
+      </if>
+      <if test="enginerNo != null" >
+        ENGINER_NO = #{enginerNo,jdbcType=VARCHAR},
+      </if>
+      <if test="frameNo != null" >
+        FRAME_NO = #{frameNo,jdbcType=VARCHAR},
+      </if>
+      <if test="licenceNo != null" >
+        LICENCE_NO = #{licenceNo,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ORDER_ID = #{orderId,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.qing.insurance.pojo.Order" >
+    update user_order
+    set ORDER_NO = #{orderNo,jdbcType=VARCHAR},
+      FINISH_DATE = #{finishDate,jdbcType=TIMESTAMP},
+      SUM_PREMIUM = #{sumPremium,jdbcType=DECIMAL},
+      BI_PREMIUM = #{biPremium,jdbcType=DECIMAL},
+      CI_PREMIUM = #{ciPremium,jdbcType=DECIMAL},
+      ORDER_CITY = #{orderCity,jdbcType=VARCHAR},
+      USER_NAME = #{userName,jdbcType=VARCHAR},
+      CAR_OWNER = #{carOwner,jdbcType=VARCHAR},
+      ENGINER_NO = #{enginerNo,jdbcType=VARCHAR},
+      FRAME_NO = #{frameNo,jdbcType=VARCHAR},
+      LICENCE_NO = #{licenceNo,jdbcType=VARCHAR}
+    where ORDER_ID = #{orderId,jdbcType=INTEGER}
+  </update>
+</mapper>

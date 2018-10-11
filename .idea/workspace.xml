@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="insurance:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47b4866d-7d69-463b-a315-bc60adb638f5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carMassage.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/carMassage.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="261" column="24" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forgetPassword.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/forgetPassword.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="43" column="57" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="308" column="29" lean-forward="true" selection-start-line="308" selection-start-column="29" selection-end-line="308" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orderDetail.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/orderDetail.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="order.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="167" column="41" selection-start-line="167" selection-start-column="41" selection-end-line="167" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_create.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order_create.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3285">
+              <caret line="219" column="60" selection-start-line="219" selection-start-column="60" selection-end-line="219" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>140000</find>
+      <find>150000</find>
+      <find>210000</find>
+      <find>220000</find>
+      <find>340000</find>
+      <find>350000</find>
+      <find>360000</find>
+      <find>410000</find>
+      <find>420000</find>
+      <find>430000</find>
+      <find>440000</find>
+      <find>450000</find>
+      <find>510000</find>
+      <find>520000</find>
+      <find>530000</find>
+      <find>610000</find>
+      <find>620000</find>
+      <find>630000</find>
+      <find>640000</find>
+      <find>650000</find>
+      <find>460000</find>
+      <find>demo_value</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>山西省</replace>
+      <replace>内蒙古自治区</replace>
+      <replace>辽宁省</replace>
+      <replace>吉林省</replace>
+      <replace>贵州省</replace>
+      <replace>海南省</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/register-login.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/loginTest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/utils/MD5Util.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registerBegin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/forgetPassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order_create.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/myOrder.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/userCenter.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/updatePassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/carMassage.json" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newPassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/registerBegin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/platenumber.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/valid.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qing/insurance/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/order.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/carMassage.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/download/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven\setting\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="insurance Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="insurance Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="insurance Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1944" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="insurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insurance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\bishe\test\insurance\src\main\webapp\css" />
+      <recent name="E:\bishe\test\insurance\src\main\webapp\js" />
+      <recent name="E:\bishe\test\insurance\src\main\webapp\WEB-INF\view\admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qing.insurance.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\毕设\程序\insurance\src\main\webapp" />
+      <recent name="E:\bishe\test\insurance" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="login" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="insurance:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_insurance_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51960" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="insurance:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47b4866d-7d69-463b-a315-bc60adb638f5" name="Default" comment="" />
+      <created>1525229467555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525229467555</updated>
+      <workItem from="1525229477022" duration="1311000" />
+      <workItem from="1525233395723" duration="13842000" />
+      <workItem from="1525312395065" duration="6035000" />
+      <workItem from="1525320217451" duration="4054000" />
+      <workItem from="1525333856400" duration="2497000" />
+      <workItem from="1525348786956" duration="4951000" />
+      <workItem from="1525353762391" duration="4186000" />
+      <workItem from="1525391129552" duration="3743000" />
+      <workItem from="1525401095576" duration="18549000" />
+      <workItem from="1525480015762" duration="2123000" />
+      <workItem from="1525508228901" duration="736000" />
+      <workItem from="1525565532866" duration="12321000" />
+      <workItem from="1525620579006" duration="964000" />
+      <workItem from="1525740742714" duration="5072000" />
+      <workItem from="1525774265038" duration="260000" />
+      <workItem from="1525830794847" duration="10000" />
+      <workItem from="1525832183455" duration="204000" />
+      <workItem from="1525832856229" duration="4497000" />
+      <workItem from="1525910650369" duration="670000" />
+      <workItem from="1525913766868" duration="4000" />
+      <workItem from="1525913897466" duration="131000" />
+      <workItem from="1525921370570" duration="16000" />
+      <workItem from="1525921410991" duration="1586000" />
+      <workItem from="1525963495232" duration="1481000" />
+      <workItem from="1526268088416" duration="1195000" />
+      <workItem from="1526302842254" duration="238000" />
+      <workItem from="1526372110197" duration="1004000" />
+      <workItem from="1526451888865" duration="658000" />
+      <workItem from="1526816182536" duration="1869000" />
+      <workItem from="1526867965602" duration="2837000" />
+      <workItem from="1526918839987" duration="1054000" />
+      <workItem from="1526920013144" duration="137000" />
+      <workItem from="1526952593155" duration="1388000" />
+      <workItem from="1526967536220" duration="3400000" />
+      <workItem from="1526999843468" duration="1026000" />
+      <workItem from="1527007303996" duration="1948000" />
+      <workItem from="1527046214784" duration="6711000" />
+      <workItem from="1527128249651" duration="3244000" />
+      <workItem from="1527148844731" duration="14513000" />
+      <workItem from="1527206549579" duration="1788000" />
+      <workItem from="1527394849924" duration="2108000" />
+      <workItem from="1527408743304" duration="2926000" />
+      <workItem from="1527476187039" duration="2000000" />
+      <workItem from="1527585312320" duration="1511000" />
+      <workItem from="1527641857110" duration="847000" />
+      <workItem from="1527646925679" duration="8365000" />
+      <workItem from="1527855457805" duration="13393000" />
+      <workItem from="1527869698984" duration="357000" />
+      <workItem from="1527949617599" duration="6139000" />
+      <workItem from="1527955803907" duration="1024000" />
+      <workItem from="1527958015474" duration="144000" />
+      <workItem from="1527994834626" duration="970000" />
+      <workItem from="1528014104567" duration="599000" />
+      <workItem from="1528015450825" duration="2245000" />
+      <workItem from="1528032967833" duration="3184000" />
+      <workItem from="1528036369994" duration="6368000" />
+      <workItem from="1528164054573" duration="1268000" />
+      <workItem from="1528165818270" duration="1999000" />
+      <workItem from="1528190201502" duration="1376000" />
+      <workItem from="1528205709681" duration="4842000" />
+      <workItem from="1528211214986" duration="1543000" />
+      <workItem from="1528213611153" duration="2444000" />
+      <workItem from="1528243637294" duration="991000" />
+      <workItem from="1528285602856" duration="9054000" />
+      <workItem from="1528377658685" duration="593000" />
+      <workItem from="1528822954437" duration="896000" />
+      <workItem from="1534126144421" duration="6747000" />
+      <workItem from="1534132982790" duration="262000" />
+      <workItem from="1534153712656" duration="634000" />
+      <workItem from="1534157298252" duration="644000" />
+      <workItem from="1534405305578" duration="673000" />
+      <workItem from="1534641365762" duration="599000" />
+      <workItem from="1536230533689" duration="2115000" />
+      <workItem from="1536306132435" duration="1555000" />
+      <workItem from="1536650186952" duration="1250000" />
+      <workItem from="1536670202438" duration="920000" />
+      <workItem from="1536671328804" duration="139000" />
+      <workItem from="1536802050652" duration="909000" />
+      <workItem from="1536805497433" duration="459000" />
+      <workItem from="1536824019533" duration="4997000" />
+      <workItem from="1536883645107" duration="1486000" />
+      <workItem from="1537493321332" duration="1743000" />
+      <workItem from="1537664819786" duration="2785000" />
+      <workItem from="1537692447576" duration="1676000" />
+      <workItem from="1537709449334" duration="3100000" />
+      <workItem from="1537755984733" duration="578000" />
+      <workItem from="1537757939980" duration="623000" />
+      <workItem from="1537958307282" duration="1045000" />
+      <workItem from="1538628714240" duration="721000" />
+      <workItem from="1538817968233" duration="619000" />
+      <workItem from="1538833921061" duration="1824000" />
+      <workItem from="1538838361869" duration="395000" />
+      <workItem from="1538840001981" duration="785000" />
+      <workItem from="1538870040586" duration="330000" />
+      <workItem from="1539071549698" duration="5289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="254341000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50074965" side_tool="true" weight="0.1703204" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3288364" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.17542441" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+      <window_info id="Structure" order="1" sideWeight="0.50344825" side_tool="true" weight="0.26836583" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24962519" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3288364" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.31608135" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.05564924" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49655172" visible="true" weight="0.32255456" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5526802" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.1821248" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3288364" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.17875211" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24962519" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50074965" side_tool="true" weight="0.1703204" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3322091" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3288364" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3298351" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49655172" visible="true" weight="0.26836583" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.50344825" side_tool="true" weight="0.26836583" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288364" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/userCenter.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="110" selection-start-line="37" selection-start-column="110" selection-end-line="37" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/carMassage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="312" column="5" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newPassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/valid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="189" column="34" selection-start-line="189" selection-start-column="34" selection-end-line="189" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="109" column="50" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="154" column="33" selection-start-line="154" selection-start-column="33" selection-end-line="154" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="5560" column="4" selection-start-line="5560" selection-start-column="4" selection-end-line="5560" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PathVariable.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/myOrder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="104" column="57" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newPassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="63" column="8" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/platenumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/XmlToObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/order.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59356">
+          <caret line="3124" column="18" selection-start-line="3124" selection-start-column="18" selection-end-line="3124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/register-login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="86" column="27" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="155" column="22" selection-start-line="155" selection-start-column="18" selection-end-line="155" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/updatePassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="36" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/registerBegin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/valid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/userCenter.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order_create.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3285">
+          <caret line="219" column="60" selection-start-line="219" selection-start-column="60" selection-end-line="219" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/orderDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="167" column="41" selection-start-line="167" selection-start-column="41" selection-end-line="167" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/forgetPassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="43" column="57" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/carMassage.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qing/insurance/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="308" column="29" lean-forward="true" selection-start-line="308" selection-start-column="29" selection-end-line="308" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/carMassage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="261" column="24" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>insurance:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|insurance</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: redis.clients:jedis:2.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
